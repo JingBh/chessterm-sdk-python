@@ -2,6 +2,12 @@
 
 ChessTerm SDK for Python
 
+![Workflow Status](https://img.shields.io/github/workflow/status/JingBh/chessterm-sdk-python/Test%20and%20Build%20the%20Package)
+![Version](https://img.shields.io/pypi/v/chessterm-sdk?label=version)
+![Downloads](https://img.shields.io/pypi/dm/chessterm-sdk)
+![Python Version](https://img.shields.io/badge/python-%E2%89%A53.4-green)
+![License](https://img.shields.io/github/license/JingBh/chessterm-sdk-python)
+
 ## How to Install
 ```bash
 pip install chessterm-sdk
