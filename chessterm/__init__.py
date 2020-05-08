@@ -11,7 +11,7 @@ Documentaion: https://github.com/JingBh/chessterm-sdk-python/blob/master/README.
 API References: https://github.com/JingBh/flamechess/blob/master/docs/api.md
 """
 
-__version__ = "0.1.2"
+__version__ = "0.2.0"
 
 # Classes
 from .user import User
