@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name="chessterm-sdk",
-    version="0.2.0",
+    version="0.2.0.post1",
     author="JingBh",
     author_email="jingbohao@yeah.net",
     description="ChessTerm SDK for Python.",
@@ -18,7 +18,6 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=["requests"],
     classifiers=[
-        "Environment :: Console",
         "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
